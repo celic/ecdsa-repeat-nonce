@@ -9,6 +9,8 @@ Install the ECDSA library used:
 
     gem install ecdsa
   
+The github repository for the gem can be found at https://github.com/DavidEGrayson/ruby_ecdsa. 
+
 Run the attack:
 
     ruby attack.rb
